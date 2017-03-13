@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="save">Сохранить</string>
+    <string name="edit">Редактировать</string>
+    <string name="first_Name">Имя</string>
+    <string name="second_Name">Фамилия</string>
+    <string name="date">Дата</string>
+</resources>

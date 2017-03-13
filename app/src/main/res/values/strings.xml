@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="first_Name">First name</string>
+    <string name="second_Name">Second name</string>
+    <string name="date">Date</string>
+    <color name="tvBackgroundGrey">#808080</color>
+    <color name="tvBackgroundWhite">#ffffff</color>
+</resources>
