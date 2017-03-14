@@ -3,15 +3,8 @@ package andr1.myapplication;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.EditText;
 import android.widget.TextView;
 
-import com.google.android.gms.appindexing.AppIndex;
-import com.google.android.gms.common.api.GoogleApiClient;
-
-/**
- * Created by Seva_ on 13.03.2017.
- */
 
 public class activity2 extends AppCompatActivity {
     @Override
